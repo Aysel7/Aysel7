@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Aysel7
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning frontend programs
-- 💞️ I’m looking to collaborate on website
 - 📫 How to reach me https://www.linkedin.com/in/aysel-gojayeva-765375147/
 
 <!---
